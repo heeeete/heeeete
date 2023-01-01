@@ -1,13 +1,6 @@
 <div align=center>
+ <a href="https://www.notion.so/0613af5830714e24abea573a50f05a03" target="_blank"><img src="https://img.shields.io/badge/notion-색코드?style=flat-square&logo=이미지 이름&logoColor=white"/></a>
 
-![header](https://capsule-render.vercel.app/api?type=slice&height=250&color=auto&text=HeeeeTe&animation=twinkling&stroke=5e778a&strokeWidth=1)
-</div>
-
-
-<br />
-<br />
-
-<div align=center>
 
 [![huipark's 42 stats](https://badge42.vercel.app/api/v2/cl7lvyf2400060gl236e4ign9/stats?cursusId=21&coalitionId=86)](https://github.com/JaeSeoKim/badge42)
 

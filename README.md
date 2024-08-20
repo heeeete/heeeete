@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Gothic+A1&duration=3000&pause=1000&random=false&width=435&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94.;27%EC%82%B4+%EB%B0%95%ED%9D%AC%ED%83%9C%EC%9E%85%EB%8B%88%EB%8B%A4.%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F)](https://git.io/typing-svg)
+
